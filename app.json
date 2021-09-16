@@ -65,7 +65,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "https://github.com/RR9R7/JEEPTHON",
+      "value": "https://github.com/JEPTHON1/BOT",
       "required": false
     }
   },
