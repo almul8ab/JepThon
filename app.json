@@ -65,7 +65,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "https://github.com/almul8ab/JepThon",
+      "value": "https://github.com/almul8ab/BOT",
       "required": false
     }
   },
